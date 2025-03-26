@@ -1,0 +1,12 @@
+{
+  "name": "gitrepository",
+  "version": "1.0.0",
+  "description": "no data\r data added to this file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
