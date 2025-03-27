@@ -1,0 +1,29 @@
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 0;
+    color: aqua;
+}
+.pointer{
+    cursor: pointer;
+}
+.caption{
+    padding: 10px 20px;
+}
+.caption span{
+    color: rgb(123, 18, 172);
+    font-weight: 600;
+    font-size: 24px;
+    margin-left: 10px;
+}
+.header{
+    background-color: rgb(156, 41, 233);
+    color: white;
+    padding: 10px 20px 20px 20px;
+    position: relative;
+}
+.header .subtitle{
+    position: absolute;
+    top: 41px;
+    left: 80px;
+    letter-spacing: 7px;
+}
