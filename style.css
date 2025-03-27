@@ -39,13 +39,13 @@ body{
     font-weight: 500;
 }
 .chapters> span{
-    color: rgb(12, 44, 224);
+    color: rgb(244, 133, 248);
     font-weight: 100;
     font-size: 16px;
     margin-left: 10px; 
 }
 .sections .html{
-    background-color: rgb(20, 204, 20);
+    background-color: rgb(17, 146, 17);
     
 }
 
