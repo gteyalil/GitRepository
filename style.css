@@ -39,3 +39,12 @@ body{
     font-weight: 500;
 }
 
+.sections .html{
+    background-color: rgb(20, 204, 20);
+}
+.sections .css{
+    background-color: rgb(235, 213, 16);
+}
+.sections .js{
+    background-color: rgb(241, 40, 40);
+}
