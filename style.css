@@ -55,3 +55,8 @@ body{
 .sections .js{
     background-color: rgb(241, 40, 40);
 }
+strong{
+    color: rgb(243, 26, 26);
+    font-weight: 100;
+    font-size: 24px;
+}
